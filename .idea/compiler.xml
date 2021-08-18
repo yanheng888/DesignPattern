@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="main" />
+        <module name="TemplatePattern" />
         <module name="StrategyPattern" />
         <module name="demo" />
       </profile>
@@ -15,6 +16,7 @@
       <module name="demo" target="1.8" />
       <module name="main" target="1.8" />
       <module name="StrategyPattern" target="1.8" />
+      <module name="TemplatePattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
