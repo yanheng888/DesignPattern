@@ -8,7 +8,9 @@ public abstract class AbstractSoyaMilk {
      */
     final void make(){
         select();
-        addCondiments();
+        if(customerWantCondiments()){
+            addCondiments();
+        }
         soak();
         whip();
     }
@@ -17,7 +19,7 @@ public abstract class AbstractSoyaMilk {
      * select ingredients
      */
     void select(){
-        System.out.println("First stemp: select good soya");
+        System.out.println("First step: select good soya");
     }
 
     /**
@@ -29,10 +31,14 @@ public abstract class AbstractSoyaMilk {
      * soak
      */
     void soak(){
-        System.out.println("Third stemp, soak soya for three hours");
+        System.out.println("Third step: soak soya for three hours");
     }
 
     void whip(){
         System.out.println("Fourth step: whip soya");
+    }
+
+    boolean customerWantCondiments(){
+        return true;
     }
 }
