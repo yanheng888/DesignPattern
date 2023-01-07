@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f476f8fd-25f8-430c-bafd-88f963a6a35d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/demeter/Demeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/demeter/improve/Demeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/interfaceSegregationPrinciple/InterfaceSegregationPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/interfaceSegregationPrinciple/improve/InterfaceSegregationPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/inversion/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/inversion/improve/DependecyInversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/inversion/improve/DependencyPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/liskov/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Principle/src/main/java/org/example/liskov/improve/Liskov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Principle/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "/Users/hengyan/Desktop/DesignPattern/Principle/src/main/java/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +50,15 @@
     "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.main.java.org.example.ocp.improve.Ocp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Principle/src/main/java/org/example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main.java.org.example.ocp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SingleResponsibility1">
     <configuration name="Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.org.example.demeter.Demeter" />
       <module name="Principle" />
@@ -96,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.org.example.demeter.improve.Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.example.demeter.improve.Demeter" />
+    <configuration name="SingleResponsibility1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.principle.singleresponsibility.SingleResponsibility1" />
       <module name="Principle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.example.demeter.improve.*" />
+          <option name="PATTERN" value="com.atguigu.principle.singleresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.org.example.liskov.improve.Liskov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.example.liskov.improve.Liskov" />
+    <configuration name="main.java.org.example.demeter.improve.Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.org.example.demeter.improve.Demeter" />
       <module name="Principle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.example.liskov.improve.*" />
+          <option name="PATTERN" value="main.java.org.example.demeter.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleResponsibility1" />
         <item itemvalue="Application.main.java.org.example.ocp.improve.Ocp" />
         <item itemvalue="Application.Ocp" />
         <item itemvalue="Application.main.java.org.example.demeter.improve.Demeter" />
         <item itemvalue="Application.Demeter" />
-        <item itemvalue="Application.main.java.org.example.liskov.improve.Liskov" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672982713608</updated>
-      <workItem from="1672982714895" duration="8108000" />
+      <workItem from="1672982714895" duration="9670000" />
     </task>
     <servers />
   </component>
