@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true">
-    <file url="file://$PROJECT_DIR$/Principle/src/main/java/org/example" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Principle/src/main/java/org/example/demeter/Demeter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Principle/src/main/java/org/example/demeter/improve/Demeter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Principle/src/main/java/org/example/inversion/DependecyInversion.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Principle/src/main/java/org/example/inversion/improve/DependecyInversion.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

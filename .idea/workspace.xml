@@ -5,8 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f476f8fd-25f8-430c-bafd-88f963a6a35d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/composite/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/demeter/Demeter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/demeter/improve/Demeter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/inversion/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/inversion/improve/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/inversion/improve/DependencyPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/liskov/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/liskov/improve/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/liskov/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/ocp/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/ocp/improve/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/segregation/Segregation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/segregation/improve/Segregation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/segregation/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/segregation/newfile2.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/singleresponsibility/SingleResponsibility2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/singleresponsibility/SingleResponsibility3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/composite/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/demeter/Demeter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/demeter/improve/Demeter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/inversion/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/inversion/improve/DependecyInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/inversion/improve/DependencyPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/liskov/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/liskov/improve/Liskov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/liskov/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/ocp/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/ocp/improve/Ocp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/segregation/Segregation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/segregation/improve/Segregation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/segregation/newfile.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/segregation/newfile2.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/singleresponsibility/SingleResponsibility1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/singleresponsibility/SingleResponsibility2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/principle/singleresponsibility/SingleResponsibility3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type1/SingletonTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type2/SingletonTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type3/SingletonTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type4/SingletonTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type6/SingletonTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type7/SingletonTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/singleton/type8/SingletonTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Principle/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Principle/src/main/java/org/example/singleresponsibility/SingleResponsibility1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Principle/src/com/atguigu/principle/singleresponsibility/SingleResponsibility1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +107,13 @@
       <recent name="main.java.org.example.ocp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingleResponsibility1">
-    <configuration name="Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.example.demeter.Demeter" />
+  <component name="RunManager" selected="Application.com.atguigu.principle.ocp.improve.Ocp">
+    <configuration name="Ocp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.org.example.ocp.Ocp" />
       <module name="Principle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.example.demeter.*" />
+          <option name="PATTERN" value="main.java.org.example.ocp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ocp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.example.ocp.Ocp" />
-      <module name="Principle" />
+    <configuration name="SingleResponsibility1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.principle.singleresponsibility.SingleResponsibility1" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.example.ocp.*" />
+          <option name="PATTERN" value="com.atguigu.principle.singleresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.java.org.example.demeter.improve.Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.org.example.demeter.improve.Demeter" />
-      <module name="Principle" />
+    <configuration name="com.atguigu.principle.ocp.improve.Ocp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.principle.ocp.improve.Ocp" />
+      <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.org.example.demeter.improve.*" />
+          <option name="PATTERN" value="com.atguigu.principle.ocp.improve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.atguigu.principle.ocp.improve.Ocp" />
+        <item itemvalue="Application.SingleResponsibility1 (1)" />
         <item itemvalue="Application.SingleResponsibility1" />
         <item itemvalue="Application.main.java.org.example.ocp.improve.Ocp" />
         <item itemvalue="Application.Ocp" />
-        <item itemvalue="Application.main.java.org.example.demeter.improve.Demeter" />
-        <item itemvalue="Application.Demeter" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672982713608</updated>
-      <workItem from="1672982714895" duration="9670000" />
+      <workItem from="1672982714895" duration="11632000" />
     </task>
     <servers />
   </component>
